@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'DM Sans' !important;
+}
+
+.p1{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+letter-spacing: -0.292683px;
+color: #1E0E62;
+}
+
+.nav-link{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+color: rgba(21, 20, 57, 0.4);
+}
+
+.HeaderButton{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+color: rgba(21, 20, 57, 0.4);
+}
+
+.LoginButton{
+    background: #25DAC5;
+    border-radius: 100px;
+    color: white;
+
+}
+.section1 h1 {
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 86px;
+text-align: center;
+letter-spacing: -1px;
+color: #1E0E62;
+margin-top: 100px;
+}
+.p2{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 32px;
+text-align: center;
+color: rgba(21, 20, 57, 0.4);
+}
+
+
+.PurchaseButton{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    background: #25DAC5;
+border-radius: 100px;
+margin-top: 75px;
+}
+.p4{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 26px;
+text-align: center;
+letter-spacing: -0.225px;
+color: #25DAC5;
+margin-top: 10px;
+}
