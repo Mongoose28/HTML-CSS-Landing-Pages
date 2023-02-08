@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: 'DM Sans' !important;
+}
+.background{
+    background: #2F1893;
+}
+
+
+.p1{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+letter-spacing: -0.292683px;
+color: #FFFFFF;
+
+}
+.nav-link{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 20px;
+color: #FFFFFF;
+}
+
+.SignupButton{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    background: #482BE7;
+border-radius: 100px;
+}
+.section1 h1 {
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 68px;
+line-height: 75px;
+text-align: center;
+letter-spacing: -1px;
+color: #FFFFFF;
+margin-top: 10px;
+}
+
+
+.p2{
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 31px;
+text-align: center;
+color: #FFFFFF;
+mix-blend-mode: normal;
+margin-top: 40px;
+}
+
+.input{
+    mix-blend-mode: normal;
+    opacity: 0.2;
+    border: 2px solid #FFFFFF;
+    border-radius: 100px;
+    background: none;
+    font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 26px;
+display: flex;
+align-items: center;
+color: #FFFFFF;
+opacity: 0.4;
+border-radius: 100px;
+margin-left: 309px;
+}
+.submit{
+    background: #25DAC5;
+    border-radius: 30px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: -0.25px;
+    color: #FFFFFF;
+    margin-bottom: 17px;
+}
+.search-form input{
+ display: inline-block;
+ 
+}
+.box{
+    margin-top: 90px;
+    margin-left: 97px;
+}
+.p3{
+    position: absolute;
+height: 22px;
+left: 36.79%;
+right: 36.79%;
+top: calc(50% - 22px/2 + 270.4px);
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: -0.2px;
+color: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.3;
+}
